@@ -5,7 +5,7 @@ By: Luke Harding <luke@lukeh990.io>
 I got bored with 2023 and never finished. Let's try again!
 
 | Day    | Solve 1  | Solve 2 |
-| :----- | :------: | ------: |
+| :----- | :------: | :-----: |
 | Day 1  | ☑️        | ☑️       |
 | Day 2  | ❎       | ❎      |
 | Day 3  | ❎       | ❎      |
